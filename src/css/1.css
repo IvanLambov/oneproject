@@ -1,0 +1,58 @@
+body{
+    background-color:khaki;
+}
+h2{
+    text-align: center;
+    color: rgb(143, 12, 12);
+    font-weight: 200;
+    font-style: italic;
+    text-decoration:line-through;
+    font-size: 50px;
+}
+h4{
+      color: #000080;
+      font-family: Arial;
+      font-style: italic;
+}
+#ed {
+    text-align: center;
+    color: rgb(143, 12, 12);
+}
+#cd,#we{
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin-right: auto;
+}
+div a{
+    color: #000080;
+}
+.re {
+    color:blueviolet ;
+   font-weight: 100;
+}
+.text{
+  font-weight: 800;
+  text-transform: capitalize;
+}
+.cursiv{
+    font-style: italic;
+}
+.bold{
+    font-weight: 800;
+}
+.pod{
+    text-decoration: underline;
+}
+.font{
+    background-color: yellow;
+      font-weight: 800;
+}
+.block1{
+color: azure;
+background-color: #720c1a;
+padding: 20px 25px 15px 30px;
+margin: 15px 25px 20px 35px;
+border: 6px solid rgb(1, 224, 76);
+
+}
